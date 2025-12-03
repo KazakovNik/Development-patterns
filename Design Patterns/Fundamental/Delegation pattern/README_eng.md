@@ -7,9 +7,9 @@ The basic idea of ​​the pattern is to delegate responsibility for performing
 - Increased System Flexibility: If the logic of individual operations changes, it is sufficient to replace the delegate without affecting the main class.
 
 # Advantages
-Program flexibility is increased by the ability to change object behavior by replacing delegates.  
-The class structure is simplified, as each class focuses on its specific purpose.  
-Code is easier to maintain, as changing the details of a single operation does not affect the overall structure of the application.
+- Program flexibility is increased by the ability to change object behavior by replacing delegates.  
+- The class structure is simplified, as each class focuses on its specific purpose.  
+- Code is easier to maintain, as changing the details of a single operation does not affect the overall structure of the application.
 
 # Application in real projects
 The delegation pattern is widely used in various areas of software development, for example:
